@@ -8,5 +8,5 @@ end
 end
 
 my_collect(array) {name.split(" ").first
-    name.upcase} fjeij
+    name.upcase}
 
