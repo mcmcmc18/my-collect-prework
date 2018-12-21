@@ -6,3 +6,5 @@ collection << yield(array[i])
 i = i + 1
 end
 end
+
+my_collect = { array[i].upcase
